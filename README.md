@@ -9,3 +9,6 @@ This project provides a comprehensive guide to creating a conversational bot usi
 - **Step-by-Step Deployment Instructions**: Simplify testing and deployment.
 
 Explore the guide and source code to build your own conversational AI solutions!
+
+![image](https://github.com/user-attachments/assets/d2573074-aafd-4541-a6ab-111f21a08ca9)
+
